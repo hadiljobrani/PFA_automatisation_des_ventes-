@@ -1,7 +1,7 @@
 from src.data_loader import load_data
 from src.calcule import *
 import matplotlib.pyplot as plt
-
+from src.data_loader import lire_csv_dynamique
 
 data = load_data()
 
@@ -39,3 +39,4 @@ plt.xlabel("Produit ID")
 plt.ylabel("CA Net")
 
 plt.show()
+data = lire_csv_dynamique("data/ventes.csv")
