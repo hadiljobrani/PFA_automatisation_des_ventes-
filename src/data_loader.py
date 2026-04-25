@@ -18,7 +18,7 @@ def load_data():
             data.append(row)
     
     return data
-
+#bonus: lecture dynamique
 def lire_csv_dynamique(fichier):
     """
     Lecture dynamique d'un fichier CSV (taille variable)

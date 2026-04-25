@@ -39,4 +39,5 @@ plt.xlabel("Produit ID")
 plt.ylabel("CA Net")
 
 plt.show()
+#bonus: lecture dynamique
 data = lire_csv_dynamique("data/ventes.csv")
