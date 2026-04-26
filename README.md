@@ -35,7 +35,7 @@ python main.py
 👩‍💻 Travail réalisé:
 
 👩‍💻Hadil:
--Mise en place de la structure du projet (dossier data , dossier src, fichier main.py)
+- Mise en place de la structure du projet (dossier data , dossier src, fichier main.py)
 - Mise en place de l’environnement (Git, GitHub)
 - Génération du fichier CSV
 - Lecture et préparation des données
