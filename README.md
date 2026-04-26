@@ -33,14 +33,16 @@ projet_python/
 python main.py
 
 👩‍💻 Travail réalisé:
- Hadil:
+
+👩‍💻Hadil:
 -Mise en place de la structure du projet (dossier data , dossier src, fichier main.py)
 - Mise en place de l’environnement (Git, GitHub)
 - Génération du fichier CSV
 - Lecture et préparation des données
 - Implémentation de la lecture dynamique des fichiers CSV (Bonus)
 - Participation à la validation des calculs
- Nour :
+  
+ 👩‍💻Nour :
 - Implémentation des calculs des indicateurs (CA, TVA)
 - Analyse des résultats
 - Création de graphiques (bonus)
