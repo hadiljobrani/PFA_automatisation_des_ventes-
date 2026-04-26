@@ -18,6 +18,7 @@ def load_data():
             data.append(row)
     
     return data
+<<<<<<< HEAD
 #bonus: lecture dynamique
 def lire_csv_dynamique(fichier):
     """
@@ -29,3 +30,5 @@ def lire_csv_dynamique(fichier):
         data = list(reader)
 
     return data
+=======
+>>>>>>> feature-Hadil
